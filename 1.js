@@ -1,10 +1,10 @@
 function return_biodata(){
-	let biodata {
+	let = biodata {
 		"name"       : "Muhammad Elfanza",
 		"age"        : 17,
-		"address"    : "Taktakan, Serang - Banten 42162".
-		"hobbies"    : ['Programming', 'Design', 'Writing'];
-		"is_married" : false;
+		"address"    : "Taktakan, Serang - Banten 42162",
+		"hobbies"    : ['Programming', 'Design', 'Writing'],
+		"is_married" : false,
 		"list_school": [
 			{
 				"name"     : "SMP Islam Al-Azhar 11 Kota Serang",
