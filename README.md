@@ -1,6 +1,8 @@
 # Arkademy-Batch-15-Kloter-2
 Repository Untuk Menjawab Seleksi Bootcamp Arkademy Batch 15 Kloter 2
 
+Note: Disini saya menggunakan bahasa pemrograman JavaScript dan Python
+
 Untuk mencoba file javascript 1-5 dapat dibuka atau dicoba melalui website https://es6console.com/
 
 - File 1.js Untuk menampilkan biodata, ketik pada console: console.log(return_biodata()).                                                  
