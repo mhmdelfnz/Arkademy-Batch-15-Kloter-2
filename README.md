@@ -14,4 +14,5 @@ Berdasarkan pengetahuan dan pemahaman saya, JSON (JavaScript Object Notation) ad
 
 - Folder 6 Untuk menjalankannya, import terlebih dahulu file Arkademy.sql kedalam database, lalu jalankan di localhost dan bukalah file index.php di browser.
 
-Screenshot:
+Screenshot Nomor 6:
+![SS](https://user-images.githubusercontent.com/58927990/74087301-5bf0bf00-4abd-11ea-9bc0-e7691234e81b.png)
