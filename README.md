@@ -1,7 +1,7 @@
 # Arkademy-Batch-15-Kloter-2
 Repository Untuk Menjawab Soal Seleksi Bootcamp Arkademy Batch 15 Kloter 2
 
-Note: Disini saya menggunakan bahasa pemrograman JavaScript dan Python
+Note: Disini saya menggunakan bahasa pemrograman JavaScript
 
 Untuk mencoba file javascript 1-3, dapat dibuka atau dicoba melalui website https://es6console.com/
 
